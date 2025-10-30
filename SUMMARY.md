@@ -1,6 +1,6 @@
 # Table of contents
 
-* [FreeBSD 从入门到跑路（第三版：草稿）](README.md)
+* 玟茵开源社区知识库
 * [编辑日志](CHANGELOG.md)
 * [贡献指南与开放任务](CONTRIBUTING.md)
 * [目录](mu-lu.md)
